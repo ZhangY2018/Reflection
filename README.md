@@ -1,5 +1,5 @@
 # Reflection 2
-##2/2/2018
+## 2/2/2018
 This week I learned how to create my repository on github. And how to change that repository by putty. The most important part is to update that file which is in that repository to github by putty. In the end, I unecpected learned how to copy things form one file to other file which is in the other folder.
 
 
