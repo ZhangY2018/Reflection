@@ -1,3 +1,11 @@
+# Reflection 4
+## 2/16/2018
+This week I learned to create a story by putty that can ask users some questions first. And then, the story will be changed by user's different answer. I mastered some skills that can change the form of answer of the question. It can change makes the answers to be capital, lower case or inturn, it was intersting.
+
+
+---
+
+
 # Reflection 3
 ## 2/9/2018
 This week I learned how to create a question that can make different respond when it had different answers. And I also learned how to calculate on putty. The calculate of integer and floating point is different. Besides that, I also learned two more variables. Those are string and boolean.
