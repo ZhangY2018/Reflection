@@ -1,3 +1,12 @@
+# Reflection 5
+## 2/23/2018
+This week I learned how to creat a program that can make different answer by users different decition. And to to ask them differences questions if they made different decition. other thing is we learned how to create a program just like "log in" in the website. I can identify whether the user entered account and password match.
+  
+
+
+---
+
+
 # Reflection 4
 ## 2/16/2018
 This week I learned to create a story by putty that can ask users some questions first. And then, the story will be changed by user's different answer. I mastered some skills that can change the form of answer of the question. It can change makes the answers to be capital, lower case or inturn, it was intersting.
