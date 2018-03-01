@@ -1,3 +1,12 @@
+# Reflection 6
+## 3/1/2018
+This week I learn how to make a program that can makes different responds based on the range of numbers. And how to use right command to let user's answer to change the word case. I still learned how to change users' answer's color. Finally, I learned to create a program which is kind of like a guess game, it can be really crazy if user made bad decision.
+
+
+---
+
+
+
 # Reflection 5
 ## 2/23/2018
 This week I learned how to creat a program that can make different answer by users different decition. And to to ask them differences questions if they made different decition. other thing is we learned how to create a program just like "log in" in the website. I can identify whether the user entered account and password match.
