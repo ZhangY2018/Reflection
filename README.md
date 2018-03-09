@@ -1,3 +1,14 @@
+# Relfction 7
+## 3/9/18
+This week I learned how to use loop in python. To use it to literate over elements of a sequence. And to use the keyword "break" to break out from a loop. And I also learned the while loop It tells the computer to do something as long as the condition is met it's construct consists of block of code and a condition.
+
+
+
+
+---
+
+
+
 # Reflection 6
 ## 3/1/2018
 This week I learn how to make a program that can makes different responds based on the range of numbers. And how to use right command to let user's answer to change the word case. I still learned how to change users' answer's color. Finally, I learned to create a program which is kind of like a guess game, it can be really crazy if user made bad decision.
