@@ -1,3 +1,14 @@
+# Reflection 8
+##3/16/2018
+This week I learned if I have some problem in this class, I need to get help from teacher. I will not gonna search some code for complete my homework. And I also learned to use "def" to define some rules in my code. Then, return those answer currently and help me solve some questions. 
+
+
+
+---
+
+
+
+
 # Relfction 7
 ## 3/9/18
 This week I learned how to use loop in python. To use it to literate over elements of a sequence. And to use the keyword "break" to break out from a loop. And I also learned the while loop It tells the computer to do something as long as the condition is met it's construct consists of block of code and a condition.
