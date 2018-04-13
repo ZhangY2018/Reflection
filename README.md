@@ -1,3 +1,13 @@
+#Reflection 9 
+##4/13/2018
+This week learned how to create a progarm to simulate two people throw dice. During this work, I learned how to creat a function to dis a random integer in a range. And to create a function to compare the differences results to make different response. Also figured out a function that puzzled me for a long time. This function just like a scoreboard, it can increase or decrease a fraction(Actually is numbers) and to get different result. 
+
+
+
+---
+
+
+
 # Reflection 8
 ##3/16/2018
 This week I learned if I have some problem in this class, I need to get help from teacher. I will not gonna search some code for complete my homework. And I also learned to use "def" to define some rules in my code. Then, return those answer currently and help me solve some questions. 
