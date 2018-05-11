@@ -1,3 +1,9 @@
+#Reflection 10
+##5/11/2018
+This week I learned some functions. A function for find the letter that I want to and to answer this letter in the position of the word. And I still learned vto create a function which is can given a dseries of squared numbers. To use "str" to string of group of letter, word or numbers. To use int to convert a string or number to and integer.
+
+
+
 #Reflection 9 
 ##4/13/2018
 This week learned how to create a progarm to simulate two people throw dice. During this work, I learned how to creat a function to dis a random integer in a range. And to create a function to compare the differences results to make different response. Also figured out a function that puzzled me for a long time. This function just like a scoreboard, it can increase or decrease a fraction(Actually is numbers) and to get different result. 
