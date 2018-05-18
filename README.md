@@ -1,3 +1,9 @@
+#Reflection 11
+##5/18/2018
+This is my last reflection, I learned a lot in this class during this half of year. This makes me know that programming is very interesting process. I started to thinking what code they might made when I was playing a game, or using some program online. These program may not be created by python, but these experience makes me enjoy using my computer. This half of year it's my enlightenment in program and I really used my own code to creat a game, it feels better than be a MVP in any game I played.
+
+
+
 #Reflection 10
 ##5/11/2018
 This week I learned some functions. A function for find the letter that I want to and to answer this letter in the position of the word. And I still learned vto create a function which is can given a dseries of squared numbers. To use "str" to string of group of letter, word or numbers. To use int to convert a string or number to and integer.
